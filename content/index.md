@@ -1,5 +1,7 @@
 ---
-title: Digital Garden Shed
+title: Welcome
+hidePropertiesView: "true"
 ---
+Hello! Welcome to my Digital Garden Shed-A slice of the WWW for my thoughts, ideas, questions, essays etc. 
 
-This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!
+For my first essay: [[Why a digital garden shed?]]
