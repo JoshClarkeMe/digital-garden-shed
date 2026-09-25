@@ -1,6 +1,6 @@
 ---
 title: Welcome
-hidePropertiesView: false
+hidePropertiesView: true
 ---
 
 Hello! Welcome to my Digital Garden Shed-A slice of the WWW for my thoughts, ideas, questions, essays etc. 
